@@ -1,0 +1,11 @@
+---
+requires:
+  archetect: 2.0.0
+
+entries:
+  - archetype:
+      description: "Basic Archetype Starter"
+      source: https://github.com/archetect/archetype-starter-basic.archetype.git
+  - archetype:
+      description: "Basic Catalog Starter"
+      source: https://github.com/archetect/catalog-starter-basic.archetype.git
