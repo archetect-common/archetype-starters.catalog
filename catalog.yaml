@@ -5,7 +5,7 @@ requires:
 entries:
   - archetype:
       description: "Basic Archetype Starter"
-      source: https://github.com/archetect/archetype-starter-basic.archetype.git
+    source: git@github.com:archetect-common/archetect/archetype-starter-basic.archetype.git
   - archetype:
       description: "Basic Catalog Starter"
-      source: https://github.com/archetect/catalog-starter-basic.archetype.git
+      source: git@github.com:archetect-common/catalog-starter-basic.archetype.git
